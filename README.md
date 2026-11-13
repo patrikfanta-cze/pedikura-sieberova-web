@@ -4,6 +4,7 @@ Jednostránková vizitka (cena 5 000 Kč, dohodnuto 13. 11. 2026), styl = návrh
 Statický web (HTML/CSS), písma Lora + Nunito Sans hostovaná lokálně (css/fonts.css, fonts/).
 
 - Stav: návrh, `noindex` + robots Disallow (odstranit při spuštění).
+- Logo: dodala klientka 13. 11. jako PDF (originál + 4 varianty v podklady/pedikura-sieberova/logo-original.pdf), na webu SVG img/logo-pedikura.svg + favicon img/logo-ikona.svg, barvy webu podle loga (#078174, #1eae8a, #96c889).
 - Chybí: doména, GoatCounter (založit kód, vložit js/count.js ze skillu web-pravni-minimum, doplnit zásady), sitemap, og:image.
 - K potvrzení klientkou: texty služeb, adresa v zásadách (ARES má sídlo na jiné, soukromé adrese – na webu je jen provozovna), doby uchování údajů.
 - Kadeřnictví Háro se do webu nezapočítává.

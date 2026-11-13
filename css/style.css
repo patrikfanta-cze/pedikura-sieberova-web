@@ -95,3 +95,8 @@ footer .made a,footer a{color:inherit}
 .ph img{position:absolute;inset:0;width:100%;height:100%;aspect-ratio:auto;object-fit:cover;object-position:45% 50%;border-radius:190px 190px 24px 24px}
 .ph .tag{left:-24px;bottom:18px;z-index:2}
 @media(max-width:860px){.ph{max-width:340px;height:300px;margin:0 auto}.ph .tag{left:8px}}
+
+/* úvod: logo místo fotky výlohy */
+.ph-logo{background:linear-gradient(160deg,#eaf6f0 0%,var(--leaf) 100%);border-radius:190px 190px 24px 24px;display:flex;align-items:center;justify-content:center;overflow:visible}
+.ph-logo img{position:static;width:86%;height:auto;aspect-ratio:auto;border-radius:0;object-fit:contain}
+@media(max-width:860px){.ph-logo{max-width:340px;height:260px}}

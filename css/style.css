@@ -88,3 +88,5 @@ footer .made{width:100%}
 footer .made a,footer a{color:inherit}
 @media(max-width:520px){.legal h1{font-size:34px}}
 .legal section{padding:0}
+.b2.wa{white-space:nowrap}
+.wal{font-weight:700}

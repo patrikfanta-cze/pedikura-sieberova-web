@@ -90,3 +90,8 @@ footer .made a,footer a{color:inherit}
 .legal section{padding:0}
 .b2.wa{white-space:nowrap}
 .wal{font-weight:700}
+/* fotka výlohy: menší, celé logo vidět */
+.ph{max-width:380px;margin:0 auto}
+.ph img{height:auto;aspect-ratio:1/1;object-position:50% 52%;border-radius:190px 190px 24px 24px}
+.ph .tag{left:-20px;bottom:22px}
+@media(max-width:860px){.ph{max-width:320px}.ph .tag{left:8px}}

@@ -27,7 +27,7 @@ section{padding:80px 0}
 h2{font-family:Lora,serif;font-weight:500;font-size:46px;color:var(--deep);line-height:1.1;margin-bottom:12px}
 .sub{color:var(--mut);max-width:600px;margin-bottom:44px}
 .svcs{background:#fff}
-.grid{display:grid;grid-template-columns:repeat(4,1fr);gap:22px}
+.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:22px}
 .s{background:var(--cream);border-radius:24px;padding:30px 24px}
 .s .ic{width:54px;height:54px;border-radius:50%;background:var(--leaf);display:flex;align-items:center;justify-content:center;margin-bottom:18px}
 .s .ic svg{width:28px;height:28px}
